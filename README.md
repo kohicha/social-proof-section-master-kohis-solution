@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-Site Link: https://vercel.com/kohicha/stats-preview-card-component-main-kohi-solution
-
+Site Link: https://social-proof-section-master-kohis-solution.vercel.app
 ### Built with
 
 - Semantic HTML5 markup
